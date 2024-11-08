@@ -1,0 +1,22 @@
+#first{
+    height:100px;
+      width:100px;
+      color:green;
+      background-color:red;
+      text-align:center;
+      
+    }
+    #second{
+    height:100px;
+      width:100px;
+      color:green;
+      background-color:red;
+      text-align:center;
+      float:right;
+    }
+    #black-container{
+      width:200px;
+      height:200px;
+    background-color:black;
+       border:5px solid;
+    }
